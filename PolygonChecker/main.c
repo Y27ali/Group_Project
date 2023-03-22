@@ -6,6 +6,8 @@
 
 int side = 0;
 
+//Hello World
+
 int main() {
 	bool continueProgram = true;
 	while (continueProgram) {
