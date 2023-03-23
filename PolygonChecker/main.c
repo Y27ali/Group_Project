@@ -64,3 +64,5 @@ int* getTriangleSides(int* triangleSides) {
 	}
 	return triangleSides;
 }
+
+//hellow wolrd
